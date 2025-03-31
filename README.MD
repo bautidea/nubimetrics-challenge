@@ -29,8 +29,8 @@ market_sentiment_analysis
 ├── src
 │ └── comment_analyzer.py # Clase para análisis y preprocesamiento
 ├── requirements.txt # Dependencias del proyecto
-├── resolucion.ipynb # Notebook con la solución implementada
-├── test.ipynb # Notebook de prueba
+├── nb_comment_analyzer_training.ipynb # Notebook con la solución implementada
+├── test.ipynb # Notebook de prueba, donde se utiliza clase Comment_Analyzer
 └── README.MD # Este archivo
 ```
 
