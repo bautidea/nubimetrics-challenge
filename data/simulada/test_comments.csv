@@ -1,0 +1,321 @@
+title,content,target
+Calidad y precio,"Normal, ni bueno ni malo.",1
+Muy malo,"Muy mala calidad, se rompió al poco uso.",0
+Excelente,"Muy lindo diseño, funciona excelente.",2
+Muy bueno,"Muy satisfecho con la compra, justo lo que necesitaba.",2
+Excelente,"Excelente relación precio-calidad, muy contento con el resultado.",2
+Bueno,El producto cumple con lo esperado.,1
+Calidad y precio,"Es aceptable, no más que eso.",1
+Bueno,Calidad acorde al precio.,1
+Muy malo,"Producto malo, se dañó rápido.",0
+Muy malo,"Producto malo, se dañó rápido.",0
+Buena Compra,"Excelente producto, superó mis expectativas, muy recomendado.",2
+Buena Compra,"Muy recomendable, funciona sin problemas.",2
+Buena Compra,"Excelente, muy bonita y buena iluminación.",2
+Muy malo,"Muy mala calidad, se rompió al poco uso.",0
+Calidad y precio,"Funciona correctamente, sin destacarse demasiado.",1
+Bueno,"Es promedio, no impresiona pero sirve.",1
+Muy malo,"Llegó defectuoso, no lo recomiendo.",0
+Buena Compra,"Hermoso y de buena calidad, cumple lo prometido.",2
+Muy bueno,"Muy lindo diseño, funciona excelente.",2
+Bueno,"Nada especial, pero funciona.",1
+Muy malo,"Material muy frágil, no vale la pena.",0
+Muy malo,"No funciona como debería, decepcionado con la compra.",0
+Calidad y precio,"La calidad es justa, cumple lo básico.",1
+Bueno,"Es promedio, no impresiona pero sirve.",1
+Excelente,"Excelente, muy bonita y buena iluminación.",2
+Muy malo,"Material muy frágil, no vale la pena.",0
+Malo,"Muy mala experiencia, no volvería a comprar.",0
+Excelente,"Muy satisfecho con la compra, justo lo que necesitaba.",2
+Muy bueno,"Muy satisfecho con la compra, justo lo que necesitaba.",2
+Calidad y precio,Calidad acorde al precio.,1
+Buena Compra,"Muy lindo diseño, funciona excelente.",2
+Excelente,"Muy lindo diseño, funciona excelente.",2
+Calidad y precio,"La calidad es justa, cumple lo básico.",1
+Calidad y precio,"Normal, ni bueno ni malo.",1
+,"Mala fabricación, muy desilusionado.",0
+Buena Compra,Buen precio y excelente rendimiento.,2
+Calidad y precio,"Es aceptable, no más que eso.",1
+Malo,"Producto malo, se dañó rápido.",0
+Muy malo,"Llegó defectuoso, no lo recomiendo.",0
+Buena Compra,"Producto robusto y resistente, realmente muy bueno.",2
+Excelente,"Hermoso y de buena calidad, cumple lo prometido.",2
+Calidad y precio,Calidad acorde al precio.,1
+Malo,"Mala fabricación, muy desilusionado.",0
+Malo,"No funciona como debería, decepcionado con la compra.",0
+Excelente,"Muy recomendable, funciona sin problemas.",2
+Excelente,"Muy satisfecho con la compra, justo lo que necesitaba.",2
+Malo,"Muy mala calidad, se rompió al poco uso.",0
+Calidad y precio,"Nada especial, pero funciona.",1
+Muy malo,"Pésima calidad, dejó de funcionar rápidamente.",0
+Calidad y precio,"Normal, ni bueno ni malo.",1
+Muy bueno,"Hermoso y de buena calidad, cumple lo prometido.",2
+Buena Compra,"Producto robusto y resistente, realmente muy bueno.",2
+Malo,"No cumple con lo prometido, muy mal producto.",0
+Excelente,"Muy lindo diseño, funciona excelente.",2
+Excelente,"Hermoso y de buena calidad, cumple lo prometido.",2
+Calidad y precio,Cumple con su función sin problemas.,1
+Malo,Se ve barato y funciona mal.,0
+Muy bueno,"Excelente producto, superó mis expectativas, muy recomendado.",2
+Excelente,"Producto robusto y resistente, realmente muy bueno.",2
+Bueno,"Nada especial, pero funciona.",1
+Muy malo,"Muy mala calidad, se rompió al poco uso.",0
+Bueno,"La calidad es justa, cumple lo básico.",1
+,Buen precio y excelente rendimiento.,2
+Malo,Se ve barato y funciona mal.,0
+Bueno,"Funciona correctamente, sin destacarse demasiado.",1
+Muy bueno,,1
+Muy malo,"Producto malo, se dañó rápido.",0
+,Calidad acorde al precio.,1
+Muy malo,"Llegó defectuoso, no lo recomiendo.",0
+Bueno,"Nada especial, pero funciona.",1
+Bueno,"Está bien, pero podría ser mejor.",1
+Bueno,"Es promedio, no impresiona pero sirve.",1
+Malo,"Producto malo, se dañó rápido.",0
+Calidad y precio,"La calidad es justa, cumple lo básico.",1
+Malo,"Muy mala calidad, se rompió al poco uso.",0
+Excelente,"Muy buena calidad, funciona perfectamente.",2
+Malo,"Llegó defectuoso, no lo recomiendo.",0
+Calidad y precio,Cumple con su función sin problemas.,1
+Bueno,"Es aceptable, no más que eso.",1
+Muy malo,Se ve barato y funciona mal.,0
+Buena Compra,"Muy satisfecho con la compra, justo lo que necesitaba.",2
+Bueno,"Normal, ni bueno ni malo.",1
+Muy bueno,"Excelente relación precio-calidad, muy contento con el resultado.",2
+Bueno,"Es aceptable, no más que eso.",1
+Excelente,"Muy recomendable, funciona sin problemas.",2
+Calidad y precio,"Es aceptable, no más que eso.",1
+Excelente,"Excelente producto, superó mis expectativas, muy recomendado.",2
+Excelente,"Excelente, muy bonita y buena iluminación.",2
+Malo,"Llegó defectuoso, no lo recomiendo.",0
+Malo,Se ve barato y funciona mal.,0
+Muy bueno,"Muy recomendable, funciona sin problemas.",2
+Calidad y precio,Cumple con su función sin problemas.,1
+Bueno,"La calidad es justa, cumple lo básico.",1
+Muy malo,"Producto malo, se dañó rápido.",0
+Buena Compra,"Muy buena calidad, funciona perfectamente.",2
+Bueno,Cumple con su función sin problemas.,1
+Excelente,"Excelente relación precio-calidad, muy contento con el resultado.",2
+Muy malo,"No cumple con lo prometido, muy mal producto.",0
+Bueno,"Normal, ni bueno ni malo.",1
+Calidad y precio,"Está bien, pero podría ser mejor.",1
+Calidad y precio,,1
+Bueno,"La calidad es justa, cumple lo básico.",1
+Malo,"No cumple con lo prometido, muy mal producto.",0
+Muy bueno,"Muy recomendable, funciona sin problemas.",2
+Calidad y precio,"Normal, ni bueno ni malo.",1
+Excelente,Buen precio y excelente rendimiento.,2
+Calidad y precio,"Nada especial, pero funciona.",1
+Bueno,Calidad acorde al precio.,1
+Excelente,"Excelente relación precio-calidad, muy contento con el resultado.",2
+Calidad y precio,"Funciona correctamente, sin destacarse demasiado.",1
+Buena Compra,"Excelente, muy bonita y buena iluminación.",2
+Buena Compra,"Excelente relación precio-calidad, muy contento con el resultado.",2
+Muy malo,"Muy mala calidad, se rompió al poco uso.",0
+Calidad y precio,"Funciona correctamente, sin destacarse demasiado.",1
+Muy bueno,"Excelente, muy bonita y buena iluminación.",2
+Buena Compra,"Muy recomendable, funciona sin problemas.",2
+Excelente,"Muy lindo diseño, funciona excelente.",2
+Bueno,"Está bien, pero podría ser mejor.",1
+Excelente,"Excelente producto, superó mis expectativas, muy recomendado.",2
+Calidad y precio,El producto cumple con lo esperado.,1
+Muy bueno,"Excelente relación precio-calidad, muy contento con el resultado.",2
+Buena Compra,"Hermoso y de buena calidad, cumple lo prometido.",2
+,"No cumple con lo prometido, muy mal producto.",0
+Muy bueno,Buen precio y excelente rendimiento.,2
+Malo,"Mala fabricación, muy desilusionado.",0
+Excelente,"Hermoso y de buena calidad, cumple lo prometido.",2
+Bueno,"Es aceptable, no más que eso.",1
+Excelente,"Muy recomendable, funciona sin problemas.",2
+Muy malo,Se ve barato y funciona mal.,0
+Muy bueno,"Hermoso y de buena calidad, cumple lo prometido.",2
+Malo,"Pésima calidad, dejó de funcionar rápidamente.",0
+Muy malo,"Muy mala experiencia, no volvería a comprar.",0
+Bueno,Cumple con su función sin problemas.,1
+Calidad y precio,"Nada especial, pero funciona.",1
+Buena Compra,"Muy recomendable, funciona sin problemas.",2
+,"Normal, ni bueno ni malo.",0
+Bueno,"Nada especial, pero funciona.",1
+Malo,"No funciona como debería, decepcionado con la compra.",0
+Bueno,El producto cumple con lo esperado.,1
+Muy malo,"Material muy frágil, no vale la pena.",0
+Malo,"No cumple con lo prometido, muy mal producto.",0
+Muy malo,Se ve barato y funciona mal.,0
+,"Producto robusto y resistente, realmente muy bueno.",1
+Muy malo,"Pésima calidad, dejó de funcionar rápidamente.",0
+Bueno,"Es promedio, no impresiona pero sirve.",1
+Excelente,Buen precio y excelente rendimiento.,2
+Muy malo,"No funciona como debería, decepcionado con la compra.",0
+,"Normal, ni bueno ni malo.",0
+Calidad y precio,Cumple con su función sin problemas.,1
+Bueno,"Funciona correctamente, sin destacarse demasiado.",1
+Malo,"Muy mala experiencia, no volvería a comprar.",0
+Bueno,"Normal, ni bueno ni malo.",1
+Malo,"Pésima calidad, dejó de funcionar rápidamente.",0
+,"Normal, ni bueno ni malo.",0
+Malo,"Muy mala calidad, se rompió al poco uso.",0
+Calidad y precio,Cumple con su función sin problemas.,1
+Calidad y precio,"Es promedio, no impresiona pero sirve.",1
+Calidad y precio,"Nada especial, pero funciona.",1
+,Buen precio y excelente rendimiento.,2
+Excelente,"Excelente, muy bonita y buena iluminación.",2
+Bueno,Cumple con su función sin problemas.,1
+Calidad y precio,Calidad acorde al precio.,1
+Muy malo,"Material muy frágil, no vale la pena.",0
+Bueno,El producto cumple con lo esperado.,1
+Muy malo,"No cumple con lo prometido, muy mal producto.",0
+Malo,"Muy mala experiencia, no volvería a comprar.",0
+Bueno,"Normal, ni bueno ni malo.",1
+Muy bueno,"Producto robusto y resistente, realmente muy bueno.",2
+Excelente,"Excelente relación precio-calidad, muy contento con el resultado.",2
+Buena Compra,"Muy satisfecho con la compra, justo lo que necesitaba.",2
+Malo,"Mala fabricación, muy desilusionado.",0
+Bueno,"Normal, ni bueno ni malo.",1
+Calidad y precio,Calidad acorde al precio.,1
+Calidad y precio,"Es promedio, no impresiona pero sirve.",1
+Bueno,Calidad acorde al precio.,1
+Malo,"Material muy frágil, no vale la pena.",0
+Muy malo,"Mala fabricación, muy desilusionado.",0
+Malo,"Mala fabricación, muy desilusionado.",0
+Muy bueno,"Muy lindo diseño, funciona excelente.",2
+Muy malo,"Mala fabricación, muy desilusionado.",0
+Buena Compra,"Muy lindo diseño, funciona excelente.",2
+Muy malo,"Llegó defectuoso, no lo recomiendo.",0
+Calidad y precio,"Es promedio, no impresiona pero sirve.",1
+Excelente,"Excelente, muy bonita y buena iluminación.",2
+Excelente,"Muy lindo diseño, funciona excelente.",2
+Excelente,Buen precio y excelente rendimiento.,2
+Calidad y precio,El producto cumple con lo esperado.,1
+Bueno,"Funciona correctamente, sin destacarse demasiado.",1
+Malo,"Pésima calidad, dejó de funcionar rápidamente.",0
+Bueno,"Está bien, pero podría ser mejor.",1
+Muy malo,"No cumple con lo prometido, muy mal producto.",0
+Muy bueno,"Muy buena calidad, funciona perfectamente.",2
+Buena Compra,"Muy lindo diseño, funciona excelente.",2
+Muy malo,Se ve barato y funciona mal.,0
+Calidad y precio,"La calidad es justa, cumple lo básico.",1
+Malo,"Muy mala calidad, se rompió al poco uso.",0
+Excelente,"Muy buena calidad, funciona perfectamente.",2
+Buena Compra,"Excelente relación precio-calidad, muy contento con el resultado.",2
+Muy malo,"Pésima calidad, dejó de funcionar rápidamente.",0
+Bueno,"Es aceptable, no más que eso.",1
+Excelente,"Muy recomendable, funciona sin problemas.",2
+,"Nada especial, pero funciona.",1
+Bueno,"Está bien, pero podría ser mejor.",1
+Muy malo,"Muy mala experiencia, no volvería a comprar.",0
+Excelente,"Excelente producto, superó mis expectativas, muy recomendado.",2
+Malo,"Muy mala experiencia, no volvería a comprar.",0
+Malo,"Producto malo, se dañó rápido.",0
+Malo,"No funciona como debería, decepcionado con la compra.",0
+Bueno,El producto cumple con lo esperado.,1
+Calidad y precio,"Funciona correctamente, sin destacarse demasiado.",1
+Malo,"Mala fabricación, muy desilusionado.",0
+Bueno,Calidad acorde al precio.,1
+Calidad y precio,"Está bien, pero podría ser mejor.",1
+Buena Compra,Buen precio y excelente rendimiento.,2
+Excelente,"Muy recomendable, funciona sin problemas.",2
+Muy malo,"No cumple con lo prometido, muy mal producto.",0
+Muy bueno,"Muy buena calidad, funciona perfectamente.",2
+Calidad y precio,El producto cumple con lo esperado.,1
+Excelente,"Hermoso y de buena calidad, cumple lo prometido.",2
+Muy malo,"No cumple con lo prometido, muy mal producto.",0
+Malo,"No cumple con lo prometido, muy mal producto.",0
+Excelente,"Muy buena calidad, funciona perfectamente.",2
+Bueno,,1
+Muy malo,"Muy mala calidad, se rompió al poco uso.",0
+Malo,"Pésima calidad, dejó de funcionar rápidamente.",0
+Excelente,"Hermoso y de buena calidad, cumple lo prometido.",2
+Muy malo,Se ve barato y funciona mal.,0
+Excelente,"Producto robusto y resistente, realmente muy bueno.",2
+Bueno,"Funciona correctamente, sin destacarse demasiado.",1
+Excelente,"Excelente, muy bonita y buena iluminación.",2
+Muy malo,"No funciona como debería, decepcionado con la compra.",0
+Calidad y precio,"Funciona correctamente, sin destacarse demasiado.",1
+Muy malo,"Muy mala experiencia, no volvería a comprar.",0
+Malo,"Material muy frágil, no vale la pena.",0
+Bueno,"La calidad es justa, cumple lo básico.",1
+Muy bueno,"Excelente, muy bonita y buena iluminación.",2
+Muy malo,"Mala fabricación, muy desilusionado.",0
+Bueno,Cumple con su función sin problemas.,1
+Malo,Se ve barato y funciona mal.,0
+Bueno,"La calidad es justa, cumple lo básico.",1
+,"No funciona como debería, decepcionado con la compra.",0
+Excelente,Buen precio y excelente rendimiento.,2
+Muy bueno,"Excelente producto, superó mis expectativas, muy recomendado.",2
+Malo,"Llegó defectuoso, no lo recomiendo.",0
+Muy bueno,"Producto robusto y resistente, realmente muy bueno.",2
+Excelente,"Producto robusto y resistente, realmente muy bueno.",2
+Excelente,"Producto robusto y resistente, realmente muy bueno.",2
+Calidad y precio,"Es aceptable, no más que eso.",1
+Excelente,"Excelente producto, superó mis expectativas, muy recomendado.",2
+,"Material muy frágil, no vale la pena.",2
+Bueno,Calidad acorde al precio.,1
+Malo,"Producto malo, se dañó rápido.",0
+Malo,"No funciona como debería, decepcionado con la compra.",0
+Muy malo,"Pésima calidad, dejó de funcionar rápidamente.",0
+Calidad y precio,Calidad acorde al precio.,1
+Excelente,"Muy satisfecho con la compra, justo lo que necesitaba.",2
+Malo,Se ve barato y funciona mal.,0
+Muy malo,"Pésima calidad, dejó de funcionar rápidamente.",0
+Muy malo,"Muy mala experiencia, no volvería a comprar.",0
+Muy malo,"Llegó defectuoso, no lo recomiendo.",0
+Malo,"Llegó defectuoso, no lo recomiendo.",0
+Malo,"No funciona como debería, decepcionado con la compra.",0
+,"Muy satisfecho con la compra, justo lo que necesitaba.",0
+Muy malo,"No funciona como debería, decepcionado con la compra.",0
+Calidad y precio,"Está bien, pero podría ser mejor.",1
+Excelente,"Muy satisfecho con la compra, justo lo que necesitaba.",2
+Muy malo,"Muy mala experiencia, no volvería a comprar.",0
+Calidad y precio,El producto cumple con lo esperado.,1
+Malo,"No cumple con lo prometido, muy mal producto.",0
+Bueno,Cumple con su función sin problemas.,1
+Muy bueno,"Muy satisfecho con la compra, justo lo que necesitaba.",2
+Excelente,"Muy buena calidad, funciona perfectamente.",2
+Excelente,"Excelente relación precio-calidad, muy contento con el resultado.",2
+Buena Compra,"Excelente producto, superó mis expectativas, muy recomendado.",2
+Muy malo,"Mala fabricación, muy desilusionado.",0
+Excelente,"Producto robusto y resistente, realmente muy bueno.",2
+Malo,"Material muy frágil, no vale la pena.",0
+Buena Compra,"Muy buena calidad, funciona perfectamente.",2
+Muy bueno,"Excelente, muy bonita y buena iluminación.",2
+Malo,"Producto malo, se dañó rápido.",0
+Muy malo,"No funciona como debería, decepcionado con la compra.",0
+Excelente,"Muy satisfecho con la compra, justo lo que necesitaba.",2
+Buena Compra,Buen precio y excelente rendimiento.,2
+Malo,"Material muy frágil, no vale la pena.",0
+Calidad y precio,"Es aceptable, no más que eso.",1
+,"No funciona como debería, decepcionado con la compra.",1
+Bueno,"Nada especial, pero funciona.",1
+,"La calidad es justa, cumple lo básico.",2
+Muy malo,"Material muy frágil, no vale la pena.",0
+Muy bueno,"Producto robusto y resistente, realmente muy bueno.",2
+Muy bueno,"Excelente producto, superó mis expectativas, muy recomendado.",2
+Calidad y precio,"Nada especial, pero funciona.",1
+Calidad y precio,"Es promedio, no impresiona pero sirve.",1
+Muy malo,,2
+Calidad y precio,"Normal, ni bueno ni malo.",1
+Calidad y precio,"Es promedio, no impresiona pero sirve.",1
+Muy bueno,Buen precio y excelente rendimiento.,2
+Excelente,Buen precio y excelente rendimiento.,2
+Muy malo,"Mala fabricación, muy desilusionado.",0
+Malo,"Llegó defectuoso, no lo recomiendo.",0
+Excelente,"Muy buena calidad, funciona perfectamente.",2
+Calidad y precio,El producto cumple con lo esperado.,1
+Malo,"Pésima calidad, dejó de funcionar rápidamente.",0
+Calidad y precio,"Está bien, pero podría ser mejor.",1
+Malo,"Material muy frágil, no vale la pena.",0
+Malo,"Muy mala experiencia, no volvería a comprar.",0
+Bueno,"Es promedio, no impresiona pero sirve.",1
+Bueno,El producto cumple con lo esperado.,1
+Calidad y precio,"Está bien, pero podría ser mejor.",1
+Buena Compra,"Excelente relación precio-calidad, muy contento con el resultado.",2
+Buena Compra,"Hermoso y de buena calidad, cumple lo prometido.",2
+Muy malo,"Producto malo, se dañó rápido.",0
+Bueno,"Está bien, pero podría ser mejor.",1
+Malo,,2
+Excelente,"Excelente producto, superó mis expectativas, muy recomendado.",2
+Calidad y precio,"La calidad es justa, cumple lo básico.",1
+Muy bueno,"Muy buena calidad, funciona perfectamente.",2
+Bueno,"Es aceptable, no más que eso.",1
+Malo,"Muy mala calidad, se rompió al poco uso.",0
+Bueno,"Funciona correctamente, sin destacarse demasiado.",1

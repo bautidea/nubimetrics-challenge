@@ -1,0 +1,6 @@
+*.log
+__pychache__/
+*.py[cod]
+*.so
+*.zip
+*.docx
